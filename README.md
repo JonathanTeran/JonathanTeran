@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 Soy un desarrollador de software con un gran entusiasmo por la creación de soluciones tecnológicas innovadoras. Mi pasión por la programación me ha llevado a especializarme en algunas tecnologias, donde he adquirido experiencia en muchas areas. Actualmente, me desempeño como Desarrollador y analista de sistemas 
 
+- Desarrollo web con tecnologías como JavaScript, PHP, HTML, CSS y frameworks como Laravel y Bootstrap.
+- Gestión de bases de datos relacionales como MySQL, PostgreSQL y SQL Server.
+- Automatización de procesos y DevOps con Docker y GitLab CI/CD.
+
 ---
 
 ## 🚀 Lenguajes y Tecnologías
