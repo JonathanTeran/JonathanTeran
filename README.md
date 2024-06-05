@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **JonathanTeran/JonathanTeran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 # ¡Hola! 👋 Soy Jonathan Teran
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan%20Teran-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jonathan-teran3/)
-[![GitHub followers](https://img.shields.io/github/followers/tu-username?label=Follow&style=social)](https://github.com/JonathanTeran)
+[![GitHub followers](https://img.shields.io/github/followers/JonathanTeran?label=Follow&style=social)](https://github.com/JonathanTeran)
 
 ---
 
@@ -58,9 +57,9 @@ Soy un desarrollador de software con un gran entusiasmo por la creación de solu
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-username&show_icons=true&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JonathanTeran&show_icons=true&theme=dark)
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-username&layout=compact&theme=dark)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanTeran&layout=compact&theme=dark)
 
 ---
 
