@@ -1,13 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1200&color=F97316&center=true&vCenter=true&width=750&lines=Laravel+Architect+%7C+AI+Engineer+%7C+Infrastructure+Coordinator;Building+enterprise+systems+that+actually+work+in+production;Automatización+real%2C+integraciones+críticas%2C+arquitectura+escalable" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=header&text=Jonathan%20Terán&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="Header" />
 
-<br/>
+<h3>Laravel Architect · AI Engineer · Infrastructure Coordinator</h3>
 
 **Menos humo, más arquitectura, integración e impacto operativo.**
 
 <br/>
 
+<a href="https://amephia.com">
+  <img src="https://img.shields.io/badge/🏢%20AmePhia%20Systems-F97316?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/jonathan-teran3/">
   <img src="https://img.shields.io/badge/LinkedIn-Jonathan%20Terán-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -16,7 +20,7 @@
   <img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=JonathanTeran&label=Visitas&color=F97316&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=JonathanTeran&label=Visitas&color=F97316&style=for-the-badge" />
 
 </div>
 
@@ -27,6 +31,7 @@
 ```yaml
 nombre:       Jonathan Terán
 ubicación:    Guayaquil, Ecuador 🇪🇨
+empresa:      AmePhia Systems — amephia.com
 rol:          Laravel Architect · AI Engineer · Infrastructure Coordinator
 enfoque:      Software empresarial, automatización e integración de sistemas
 especialidad: Laravel · AI Agents · DevOps · Flutter · Facturación SRI
@@ -34,14 +39,14 @@ especialidad: Laravel · AI Agents · DevOps · Flutter · Facturación SRI
 
 Construyo soluciones tecnológicas para **operaciones reales**, no demos de laboratorio.
 
-Mi enfoque combina desarrollo full-stack, infraestructura productiva y automatización con IA para crear plataformas empresariales **escalables, mantenibles y alineadas al negocio**. Trabajo en entornos donde el sistema en producción no puede fallar, las integraciones con servicios externos son críticas y el equipo técnico es reducido.
+Dirijo el desarrollo en **[AmePhia Systems](https://amephia.com)**, empresa de software con base en Guayaquil, Ecuador, especializada en plataformas empresariales, automatización con IA e integraciones con servicios críticos. También trabajo como **Coordinador de Tecnología en la Federación Ecuatoriana de Fútbol (FEF)**, gestionando un portafolio de más de 30 proyectos tecnológicos activos.
 
 Trabajo principalmente en:
 - 🏗️ Sistemas empresariales con **Laravel** para entornos corporativos de misión crítica
 - 🤖 Automatización de procesos con **IA y agentes** (RAG, orquestación, flujos autónomos)
-- 🔌 Integraciones con APIs gubernamentales, logísticas y servicios externos (SRI, DIGERCIC, SOAP)
+- 🔌 Integraciones con APIs gubernamentales y servicios externos (SRI, DIGERCIC, COMET, SOAP)
 - 🧾 **Facturación electrónica** y cumplimiento tributario en Ecuador
-- ☁️ Infraestructura, despliegue y operación: Docker, Cloudflare, Linux, Windows Server
+- ☁️ Infraestructura productiva: Docker, Cloudflare, Linux, Windows Server
 
 ---
 
@@ -50,45 +55,83 @@ Trabajo principalmente en:
 | Área | Qué hago |
 |------|----------|
 | 🏛️ **Plataformas SaaS** | Arquitecturas multi-tenant con Laravel, roles, planes y facturación |
-| 🔗 **Integraciones críticas** | APIs gubernamentales (SRI, DIGERCIC), SOAP, REST, webhooks |
+| 🔗 **Integraciones críticas** | APIs gubernamentales (SRI, DIGERCIC), SOAP, REST, webhooks empresariales |
 | 🤖 **IA aplicada** | Agentes RAG, automatización con n8n, flujos conversacionales con Claude/OpenAI |
 | 🧱 **Infraestructura productiva** | Docker, Nginx, PHP-FPM, Cloudflare Tunnels, CI/CD, monitoreo |
 | 📱 **Mobile empresarial** | Apps Flutter conectadas a backends Laravel con auth y sync |
-| 🧾 **Cumplimiento tributario** | Emisión RIDE, claves de acceso, firma XAdES, multi-tenant SRI |
+| 🧾 **Cumplimiento tributario** | Emisión RIDE, claves de acceso, firma XAdES, multi-tenant SRI Ecuador |
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🎟️ GoTicket — Plataforma de gestión y venta de entradas
-**Problema:** El cliente necesitaba digitalizar venta, control de aforo y analítica de eventos sin depender de soluciones de terceros.  
-**Solución:** Plataforma propia con dashboard operativo, reportes en tiempo real y arquitectura modular para múltiples tipos de evento.  
-**Stack:** `Laravel` `Livewire` `MySQL` `Chart.js` `Docker`  
-**Resultado:** Componentes reutilizables para diferentes tipos de evento y control total sobre el ciclo de vida del ticket.
+### 🏟️ SIFEF — Sistema Integrado Federación Ecuatoriana de Fútbol
+**Problema:** La FEF necesitaba unificar la gestión de clubes, jugadores, árbitros, competiciones, viajes e indumentaria en un solo sistema.  
+**Solución:** ERP institucional con múltiples módulos operativos, integraciones con COMET y DIGERCIC, trazabilidad completa por entidad.  
+**Stack:** `Laravel` `SQL Server` `Docker` `Redis` `IIS/Windows Server` `Cloudflare Tunnels`  
+**Escala:** +30 proyectos tecnológicos activos derivados del ecosistema SIFEF en 2026.
 
 ---
 
-### 🧾 Sistema de Facturación Electrónica SRI — Multi-tenant
-**Problema:** Las empresas ecuatorianas necesitan emitir comprobantes electrónicos cumpliendo normativa SRI, con firma digital y envío automatizado.  
-**Solución:** Plataforma SaaS multi-tenant con generación automática de XML, firma XAdES, envío al SRI y descarga de RIDE.  
-**Stack:** `Laravel 12` `MySQL` `SOAP` `amephia/sri-ec` `Filament 3`  
-**Resultado:** Arquitectura reutilizable para múltiples empresas bajo un mismo sistema, con aislamiento de datos por tenant.
+### 🧾 Facturación Electrónica SRI — Plataforma Multi-tenant
+**Problema:** Las empresas ecuatorianas necesitan emitir comprobantes electrónicos cumpliendo normativa SRI, con firma digital XAdES y envío automatizado.  
+**Solución:** SaaS multi-tenant con generación de XML, firma, envío al SRI y descarga de RIDE. Construido sobre el package [`amephia/sri-ec`](https://packagist.org/packages/amephia/sri-ec) — del que soy autor.  
+**Stack:** `Laravel 12` `MySQL` `Filament 3` `SOAP` `amephia/sri-ec`  
+**Resultado:** Arquitectura reutilizable para múltiples empresas con aislamiento total de datos por tenant.
 
 ---
 
 ### 🤖 Agente Conversacional con RAG — IA aplicada al negocio
-**Problema:** El cliente operaba flujos manuales de atención con ManyChat; necesitaba respuestas contextualizadas con información propia de la empresa.  
-**Solución:** Sistema RAG con embeddings vectoriales, recuperación semántica y respuesta generativa conectado a base de conocimiento interna.  
+**Problema:** Cliente corporativo necesitaba reemplazar flujos ManyChat por respuestas inteligentes con contexto de su propia información.  
+**Solución:** Sistema RAG con embeddings vectoriales, recuperación semántica y respuesta generativa conectado a base de conocimiento actualizable.  
 **Stack:** `Claude API` `PostgreSQL + pgvector` `Redis` `n8n` `Laravel`  
-**Resultado:** Reemplazo de flujos ManyChat por agente inteligente con contexto real y actualizable.
+**Resultado:** Agente conversacional con contexto real de negocio, sin dependencia de plataformas de terceros.
 
 ---
 
-### 🏅 Sistema de Acreditación para Eventos Masivos
-**Problema:** Los eventos deportivos necesitan control de acceso trazable, gestión de credenciales y control biométrico en tiempo real.  
-**Solución:** Plataforma SaaS B2B con módulos de acreditación, integración biométrica ZKTeco y panel de control por zonas.  
+### 📡 SRI Automation — Descarga automática de comprobantes
+**Problema:** Las empresas acumulan decenas de comprobantes electrónicos en el portal SRI que deben descargarse manualmente.  
+**Solución:** Sistema RPA en la nube que automatiza el acceso al portal SRI, resuelve CAPTCHAs vía CapSolver y descarga comprobantes multi-empresa.  
+**Stack:** `n8n` `Supabase` `CapSolver` `Python` `Playwright` `PostgreSQL` `Celery`  
+**Resultado:** Eliminación del proceso manual de descarga para múltiples empresas desde un único sistema.
+
+---
+
+### 🏅 Enterprise Access — Acreditación para Eventos Masivos
+**Problema:** Los eventos deportivos necesitan control de acceso trazable, credenciales digitales y validación biométrica en tiempo real.  
+**Solución:** Plataforma SaaS B2B con módulos de acreditación por zonas, integración biométrica ZKTeco y panel de control multirol.  
 **Stack:** `Laravel 12` `MySQL` `Flutter` `ZKTeco SDK` `Filament 3`  
-**Resultado:** Arquitectura multirol con acceso por QR, biometría y auditoría completa de ingresos.
+**Resultado:** Arquitectura multirol con acceso por QR, biometría y auditoría completa de ingresos. Target: mercado deportivo latinoamericano.
+
+---
+
+### 📊 PixelTrack — Sistema de Pixel Tracking y Bridge Pages
+**Problema:** Cliente de marketing digital necesitaba trazabilidad completa de conversiones con bridge pages personalizadas y gestión de píxeles.  
+**Solución:** Sistema full-stack de tracking con bridge pages dinámicas, gestión de píxeles por campaña y dashboard de analítica.  
+**Stack:** `Laravel 12` `Filament 3` `MySQL` `Cloudflare Workers`  
+
+---
+
+### 🎟️ GoTicket — Plataforma de gestión y venta de entradas
+**Problema:** El cliente necesitaba digitalizar venta, control de aforo y analítica de eventos sin depender de soluciones externas.  
+**Solución:** Plataforma propia con dashboard operativo, reportes en tiempo real y arquitectura modular para múltiples tipos de evento.  
+**Stack:** `Laravel` `Livewire` `MySQL` `Chart.js` `Docker`  
+
+
+---
+
+### 🛡️ AmePhia Broker Seguro — Sistema de Corretaje con IA
+**Problema:** Las brokers de seguros gestionan cotizaciones, pólizas y clientes de forma manual y dispersa, sin inteligencia sobre el portafolio.  
+**Solución:** Plataforma integral para gestión de pólizas, cotizaciones automatizadas y asistente IA que analiza coberturas, sugiere productos y responde consultas del cliente.  
+**Stack:** `Laravel` `Filament 3` `MySQL` `Claude API` `n8n` `Flutter`  
+**Resultado:** Digitalización completa del ciclo de vida de una póliza con IA integrada como capa de inteligencia operativa.
+
+---
+
+### 🛒 E-commerce de Productos Generales — AmePhia Systems
+**Problema:** Cliente necesitaba una tienda online propia, sin depender de marketplaces, con control total del catálogo, pagos y logística.  
+**Solución:** E-commerce completo con gestión de inventario, carrito, pasarelas de pago locales y panel administrativo para operación autónoma.  
+**Stack:** `Laravel` `Filament 3` `Livewire` `MySQL` `PayPhone` `Datafast`  
 
 ---
 
@@ -132,6 +175,7 @@ Trabajo principalmente en:
 - **Automatización con IA** — agentes RAG, flujos n8n, integración Claude/OpenAI con bases de datos propias
 - **Infraestructura productiva** — Docker Compose, Nginx, PHP-FPM, Cloudflare Tunnels, SELinux, Rocky Linux
 - **DevOps pragmático** — CI/CD con GitHub Actions, NSSM, monitoreo con PowerShell y workers Laravel Queue
+- **Open Source Ecuador** — Autor de [`amephia/sri-ec`](https://packagist.org/packages/amephia/sri-ec), package Laravel para facturación electrónica SRI
 
 ---
 
@@ -162,11 +206,17 @@ Trabajo principalmente en:
   <br/>
   <strong>¿Tienes un sistema complejo que construir, integrar o escalar?</strong>
   <br/><br/>
+  <a href="https://amephia.com">
+    <img src="https://img.shields.io/badge/🌐%20amephia.com-F97316?style=for-the-badge&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="mailto:jo-teran@hotmail.com">
-    <img src="https://img.shields.io/badge/📬%20Hablemos-F97316?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📬%20Hablemos-111111?style=for-the-badge&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jonathan-teran3/">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=80&section=footer" />
 </div>
