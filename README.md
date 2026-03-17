@@ -39,7 +39,7 @@ especialidad: Laravel · AI Agents · DevOps · Flutter · Facturación SRI
 
 Construyo soluciones tecnológicas para **operaciones reales**, no demos de laboratorio.
 
-Dirijo el desarrollo en **[AmePhia Systems](https://amephia.com)**, empresa de software con base en Guayaquil, Ecuador, especializada en plataformas empresariales, automatización con IA e integraciones con servicios críticos. También trabajo como **Coordinador de Tecnología en la Federación Ecuatoriana de Fútbol (FEF)**, gestionando un portafolio de más de 30 proyectos tecnológicos activos.
+Dirijo el desarrollo en **[AmePhia Systems](https://amephia.com)**, empresa de software con base en Guayaquil, Ecuador, especializada en plataformas empresariales, automatización con IA e integraciones con servicios críticos. También me desempeño como **Coordinador de Tecnología en una organización deportiva nacional**, gestionando un portafolio de más de 30 proyectos tecnológicos activos.
 
 Trabajo principalmente en:
 - 🏗️ Sistemas empresariales con **Laravel** para entornos corporativos de misión crítica
@@ -65,11 +65,11 @@ Trabajo principalmente en:
 
 ## 🚀 Proyectos destacados
 
-### 🏟️ SIFEF — Sistema Integrado Federación Ecuatoriana de Fútbol
-**Problema:** La FEF necesitaba unificar la gestión de clubes, jugadores, árbitros, competiciones, viajes e indumentaria en un solo sistema.  
-**Solución:** ERP institucional con múltiples módulos operativos, integraciones con COMET y DIGERCIC, trazabilidad completa por entidad.  
+### 🏟️ ERP Deportivo Institucional — Sistema de Gestión Integral
+**Problema:** Organización deportiva nacional necesitaba unificar la gestión de clubes, jugadores, árbitros, competiciones, viajes e indumentaria en un solo sistema.  
+**Solución:** ERP institucional con múltiples módulos operativos, integraciones con APIs gubernamentales (DIGERCIC) y servicios externos, trazabilidad completa por entidad.  
 **Stack:** `Laravel` `SQL Server` `Docker` `Redis` `IIS/Windows Server` `Cloudflare Tunnels`  
-**Escala:** +30 proyectos tecnológicos activos derivados del ecosistema SIFEF en 2026.
+**Escala:** +30 proyectos tecnológicos activos derivados del ecosistema en producción.
 
 ---
 
